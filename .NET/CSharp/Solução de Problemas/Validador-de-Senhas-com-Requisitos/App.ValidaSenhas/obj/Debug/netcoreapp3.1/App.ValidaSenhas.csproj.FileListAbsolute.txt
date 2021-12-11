@@ -1,0 +1,13 @@
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\bin\Debug\netcoreapp3.1\App.ValidaSenhas.exe
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\bin\Debug\netcoreapp3.1\App.ValidaSenhas.deps.json
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\bin\Debug\netcoreapp3.1\App.ValidaSenhas.runtimeconfig.json
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\bin\Debug\netcoreapp3.1\App.ValidaSenhas.runtimeconfig.dev.json
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\bin\Debug\netcoreapp3.1\App.ValidaSenhas.dll
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\bin\Debug\netcoreapp3.1\App.ValidaSenhas.pdb
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\obj\Debug\netcoreapp3.1\App.ValidaSenhas.csprojAssemblyReference.cache
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\obj\Debug\netcoreapp3.1\App.ValidaSenhas.AssemblyInfoInputs.cache
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\obj\Debug\netcoreapp3.1\App.ValidaSenhas.AssemblyInfo.cs
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\obj\Debug\netcoreapp3.1\App.ValidaSenhas.csproj.CoreCompileInputs.cache
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\obj\Debug\netcoreapp3.1\App.ValidaSenhas.dll
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\obj\Debug\netcoreapp3.1\App.ValidaSenhas.pdb
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\App.ValidaSenhas\obj\Debug\netcoreapp3.1\App.ValidaSenhas.genruntimeconfig.cache
