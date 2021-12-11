@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Valério\\Desktop\\Developer\\GITHUB\\valeriopires\\Desafios-Bootcamps-DIO\\.NET\\CSharp\\Solução de Problemas\\Validador-de-Senhas-com-Requisitos\\App.ValidaSenhas\\App.ValidaSenhas.csproj",
+      "projectUniqueName": "C:\\Users\\Valério\\Desktop\\Developer\\GITHUB\\valeriopires\\Desafios-Bootcamps-DIO\\.NET\\CSharp\\Solução de Problemas\\Valida-Requisitos-de-Senhas-com-ExpressãoRegular\\App.ValidaSenhas\\App.ValidaSenhas.csproj",
       "projectName": "App.ValidaSenhas",
-      "projectPath": "C:\\Users\\Valério\\Desktop\\Developer\\GITHUB\\valeriopires\\Desafios-Bootcamps-DIO\\.NET\\CSharp\\Solução de Problemas\\Validador-de-Senhas-com-Requisitos\\App.ValidaSenhas\\App.ValidaSenhas.csproj",
+      "projectPath": "C:\\Users\\Valério\\Desktop\\Developer\\GITHUB\\valeriopires\\Desafios-Bootcamps-DIO\\.NET\\CSharp\\Solução de Problemas\\Valida-Requisitos-de-Senhas-com-ExpressãoRegular\\App.ValidaSenhas\\App.ValidaSenhas.csproj",
       "packagesPath": "C:\\Users\\Valério\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Valério\\Desktop\\Developer\\GITHUB\\valeriopires\\Desafios-Bootcamps-DIO\\.NET\\CSharp\\Solução de Problemas\\Validador-de-Senhas-com-Requisitos\\App.ValidaSenhas\\obj\\",
+      "outputPath": "C:\\Users\\Valério\\Desktop\\Developer\\GITHUB\\valeriopires\\Desafios-Bootcamps-DIO\\.NET\\CSharp\\Solução de Problemas\\Valida-Requisitos-de-Senhas-com-ExpressãoRegular\\App.ValidaSenhas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Valério\\AppData\\Roaming\\NuGet\\NuGet.Config",
