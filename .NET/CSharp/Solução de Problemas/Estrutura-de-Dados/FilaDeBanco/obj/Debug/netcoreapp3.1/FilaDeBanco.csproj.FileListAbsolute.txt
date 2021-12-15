@@ -1,0 +1,13 @@
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\bin\Debug\netcoreapp3.1\FilaDeBanco.exe
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\bin\Debug\netcoreapp3.1\FilaDeBanco.deps.json
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\bin\Debug\netcoreapp3.1\FilaDeBanco.runtimeconfig.json
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\bin\Debug\netcoreapp3.1\FilaDeBanco.runtimeconfig.dev.json
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\bin\Debug\netcoreapp3.1\FilaDeBanco.dll
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\bin\Debug\netcoreapp3.1\FilaDeBanco.pdb
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\obj\Debug\netcoreapp3.1\FilaDeBanco.csprojAssemblyReference.cache
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\obj\Debug\netcoreapp3.1\FilaDeBanco.AssemblyInfoInputs.cache
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\obj\Debug\netcoreapp3.1\FilaDeBanco.AssemblyInfo.cs
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\obj\Debug\netcoreapp3.1\FilaDeBanco.csproj.CoreCompileInputs.cache
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\obj\Debug\netcoreapp3.1\FilaDeBanco.dll
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\obj\Debug\netcoreapp3.1\FilaDeBanco.pdb
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Desafios-Bootcamps-DIO\.NET\CSharp\Solução de Problemas\Estrutura-de-Dados\FilaDeBanco\obj\Debug\netcoreapp3.1\FilaDeBanco.genruntimeconfig.cache
